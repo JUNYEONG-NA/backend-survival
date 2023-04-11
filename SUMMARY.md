@@ -2,6 +2,6 @@
 
 ## Gitbook
 
-* [ Git book ](/README.md)
+* [JUNYEONG'S SURVIVAL](README.md)
 
 ## 효과적인 학습법
