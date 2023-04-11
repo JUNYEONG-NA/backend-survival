@@ -1,6 +1,6 @@
 # HTTP 기초
 
-### HTTP란?
+## HTTP란?
 
 * Hypertext Transfer Protocol
 * HTML과 같은 하이퍼미디어 문서를 전송하기 위한 규칙의 집합
@@ -42,7 +42,7 @@
 
 * HTTP는 각각의 요청에 독립적
 
-#### 클라이언트는 항상 자신이 누군지 알려주어야함.
+##### 클라이언트는 항상 자신이 누군지 알려주어야함.
 > How ?   
 > - 요청과 응답을 통해 계속 쿠키를 주고받음   
 > - 데이터는 서버에서 관리, 쿠키 등으로 key를 가지고서 관리하는 세션   
@@ -68,15 +68,15 @@
     POST / HTTP/1.1
 </code>
 </pre>
-> GET : Read(멱등성 보장)   
+> * GET : Read(멱등성 보장)        
 >       멱등성 : 같은걸 여러번 요청해도 바뀌지 않는 것   
-> HEAD : 바디 없이 헤드만 얻을 때   
-> POST : Submit(멱등성X) > Collection Pattern에서 Create로 사용   
-> PUT : Update(+Create) > Overwrite!!!!!!!   
-> PATCH : Update(Particial)(멱등성X)   
+> * HEAD : 바디 없이 헤드만 얻을 때   
+> * POST : Submit(멱등성X) > Collection Pattern에서 Create로 사용   
+> * PUT : Update(+Create) > Overwrite!!!!!!!   
+> * PATCH : Update(Particial)(멱등성X)        
 >       PUT과 PATCH는 비슷하게 만듦(원론적으론 X)   
-> DELETE : 삭제   
-> OPTIONS : 지원 확인   
+> * DELETE : 삭제   
+> * OPTIONS : 지원 확인   
 
 ### HTTP 응답 메서드
 * Status code는 요청에 대해서 어떻게 되었다라는 것을 보내줌
@@ -90,4 +90,23 @@
 > 3~~ - 리다이렉션 > 304 Not Modified가 특수한 형태로 자주보임   
 > 4~~ - 클라이언트 사이드 문제   
 > 5~~ - 서버사이드    
+<hr/>
+
+## TCP/IP 통신
+
+TCP/IP 를 기반으로 HTTP가 올라감
+
+>인터넷 프로토콜 스위트      
+>   : 인터넷 통신규약 모음
+
+### TCP와 UDP
+    전송 계층의 대표적인 프로토콜
+* TCP : 연결이 필요함. 전달 및 순서 보장해줌
+* UDP : 연결하지 않고서 데이터를 보냄. 전달 및 순서를 보장 X
+
+### Socket
+    socket과 socket API 는 서로 다름.
+    
+
+
 
