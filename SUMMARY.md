@@ -1,7 +1,10 @@
 # Table of contents
 
-## Gitbook
+## JUNYEONG'S SURVIVAL
 
-* [JUNYEONG'S SURVIVAL](README.md)
+* * *
 
-## 효과적인 학습법
+## DEV NOTE
+
+* [ FIRST WEEK ](/FIRSTWEEK.md)
+
