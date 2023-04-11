@@ -1,8 +1,8 @@
 # Table of contents
 
-## JUNYEONG'S SURVIVAL
+* [README](README.md)
 
-### DEV NOTE
+## DEV NOTE
 
-* [ FIRST WEEK ](/FIRSTWEEK.md)
-
+* [FIRST WEEK](dev-note/firstweek/README.md)
+  * [HTTP 기초](dev-note/firstweek/http.md)
