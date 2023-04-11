@@ -69,12 +69,12 @@
 </code>
 </pre>
 > GET : Read(멱등성 보장)   
-> >멱등성 : 같은걸 여러번 요청해도 바뀌지 않는 것   
+>       멱등성 : 같은걸 여러번 요청해도 바뀌지 않는 것   
 > HEAD : 바디 없이 헤드만 얻을 때   
 > POST : Submit(멱등성X) > Collection Pattern에서 Create로 사용   
 > PUT : Update(+Create) > Overwrite!!!!!!!   
 > PATCH : Update(Particial)(멱등성X)   
-> > PUT과 PATCH는 비슷하게 만듦(원론적으론 X)   
+>       PUT과 PATCH는 비슷하게 만듦(원론적으론 X)   
 > DELETE : 삭제   
 > OPTIONS : 지원 확인   
 
