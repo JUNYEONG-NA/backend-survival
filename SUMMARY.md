@@ -4,7 +4,7 @@
 
 * * *
 
-## DEV NOTE
+### DEV NOTE
 
 * [ FIRST WEEK ](/FIRSTWEEK.md)
 
