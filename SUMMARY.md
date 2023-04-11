@@ -2,7 +2,6 @@
 
 ## JUNYEONG'S SURVIVAL
 
-* * *
 
 ### DEV NOTE
 
