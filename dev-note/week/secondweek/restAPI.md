@@ -13,18 +13,22 @@
 
 시스템을 여러 Tier & Layer로 구분하는데 Tier는 물리적인 구분을 뜻하고, Layer는 논리적인 구분을 뜻한다.
 
-사용자에게 가까운 부분을 Front-End(F/E), 사용자에게 먼 부분을 Back-End(B/E)라고 부른다. 
+사용자에게 가까운 부분을 Front-End(F/E), 사용자에게 먼 부분을 Back-End(B/E)라고 부른다. 주로 react.js, vue.js 등 JS기반의 프레임워크들의 F/E에서 쓰이고, Java의 Spring, node.js의 express등 여러 B/E 프레임워크가 존재한다.
 
 F/E와 B/E 사이를 연결하는 방법은 다양한데, HTTP와 Web 기술들, REST **API**를 사용하고 그 외에도 SOAP, GraphQL등 여러 방법이 있다. 
 
- > **API**
+## API       
  > : API,  Application Programming Interface    
- > 디지털 기기, 소프트웨어 어플리케이션, 데이터 서버가 서로 통신할 수 있게 해주는 작은 코드조각으로 우리가 의존하는 많은 서비스의 근간이다.    
+ > 디지털 기기, 소프트웨어 어플리케이션, 데이터 서버가 서로 통신할 수 있게 해주는 작은 코드조각으로 우리가 의존하는 많은 서비스의 근간이다.     
  > 쉽게 생각 하자면 모바일 어플, 웹 사이트는 인터넷 세상에서 사람, 사용자들이 사용할 수 있게 설계된 반면에, API는 서로 다른 시스템과 어플리케이션이 사용하도록 설계 되었다.
  > 웹사이트와 API 모두 데이터와 콘텐츠, 이미지 등 데이터를 주고 받는 어떻게 보면 동일한 기능을 한다. 하지만 API는 사람에게 보기 좋은 형태가 아니라 컴퓨터가 판독하기 쉬운 형태의 정보를 제공한다.     
- >[What Is an API?](https://blog.postman.com/intro-to-apis-what-is-an-api/)
+ >[What Is an API?](https://blog.postman.com/intro-to-apis-what-is-an-api/)     
+ > API의 한 가지 목적은 시스템이 동작하는 방식에 관한 **내부의 세세한 부분을 숨기는** 것이다.     
 
- 
+> #### 정보은닉(Information Hiding)    
+> : 정보은닉이란, 객체지향 언어적 요소를 활용하여 객체에 대한 구체적인 정보를 노출시키지 않도록 하는 기법을 말한다.
+> 어딘가의 뒤로 정보를 숨겨서 함부로 접근할 수 없도록 하는것이고 이를 적용할 수 있는 가장 강력한 방법이 바로 **캡슐화(Encapsulation)** 인 것이다.
+
 
 
 
