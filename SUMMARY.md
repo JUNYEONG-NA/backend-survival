@@ -11,7 +11,7 @@
     * [ 실습코드 ](dev-note/week/firstweek/javaHttpServerExam.md)
   * [Spring Web MVC](dev-note/week/firstweek/springWebMVC.md)
 * [SECOND WEEK](dev-note/week/secondweek/week2.md)
-  * [REST API](dev-note/week/secondweek/restAPI.me) 
+  * [REST API](dev-note/week/secondweek/restAPI.md) 
   * [URI & MIME type](dev-note/week/secondweek/uriAndMIME.md)
   * [Collection Pattern](dev-note/week/secondweek/collectionPattern.md)
   * [Colletction Pattern 적용](dev-note/week/secondweek/applyCollectionPattern.md)
