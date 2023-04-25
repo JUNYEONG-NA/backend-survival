@@ -16,3 +16,8 @@
   * [Collection Pattern](dev-note/week/secondweek/collectionPattern.md)
   * [Colletction Pattern 적용](dev-note/week/secondweek/applyCollectionPattern.md)
   * [Spring Web MVC로 구현](dev-note/week/secondweek/collectionPatternWithSpring.md)
+* [THIRD WEEK](dev-note/week/week3.md)
+  * [DTO](dev-note/week/thirdweek/dto.md)  
+  * [직렬화](dev-note/week/thirdweek/dto.md)  
+  * [Jackson ObjectMapper](dev-note/week/thirdweek/dto.md)  
+  * [DTO](dev-note/week/thirdweek/dto.md)  
