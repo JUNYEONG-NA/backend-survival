@@ -18,6 +18,6 @@
   * [Spring Web MVC로 구현](dev-note/week/secondweek/collectionPatternWithSpring.md)
 * [THIRD WEEK](dev-note/week/week3.md)
   * [DTO](dev-note/week/thirdweek/dto.md)  
-  * [직렬화](dev-note/week/thirdweek/dto.md)  
-  * [Jackson ObjectMapper](dev-note/week/thirdweek/dto.md)  
+  * [직렬화](dev-note/week/thirdweek/serialization.md)  
+  * [Jackson ObjectMapper](dev-note/week/thirdweek/jacksonObjMapper.md)  
   * [DTO](dev-note/week/thirdweek/dto.md)  
