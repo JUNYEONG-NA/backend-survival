@@ -20,4 +20,22 @@
   * [DTO](dev-note/week/thirdweek/dto.md)  
   * [직렬화](dev-note/week/thirdweek/serialization.md)  
   * [Jackson ObjectMapper](dev-note/week/thirdweek/jacksonObjMapper.md)  
-  * [COSR](dev-note/week/thirdweek/cors.md)  
+  * [COSR](dev-note/week/thirdweek/cors.md) 
+
+* [FOURTH WEEK](dev-note/week/week3.md)
+  * [DTO](dev-note/week/thirdweek/dto.md)  
+
+* [FIFTH WEEK](dev-note/week/week5.md)
+  * [DTO](dev-note/week/thirdweek/dto.md)  
+  * [직렬화](dev-note/week/thirdweek/serialization.md)  
+  * [Jackson ObjectMapper](dev-note/week/thirdweek/jacksonObjMapper.md)  
+  * [COSR](dev-note/week/thirdweek/cors.md) 
+
+
+*[SIXTH WEEK](/dev-note/week/sixthweek/week6.md))
+  * [Database](/dev-note/week/sixthweek/database.md)
+  * [Relational Model](/dev-note/week/sixthweek/relationalMedel.md)
+  * [Relational Algerbra](/dev-note/week/sixthweek/relationalAlgerbra.md)
+  * [Entity-Relation Model](/dev-note/week/sixthweek/erModel.md)
+  * [JDBC](/dev-note/week/sixthweek/jdbc.md)
+  * [JdbcTemplate](/dev-note/week/sixthweek/jdbcTemplate.md)
