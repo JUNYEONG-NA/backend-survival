@@ -1,5 +1,4 @@
-# Table of contents
-## 
+
 ## DEV NOTE
 
 * [FIRST WEEK](dev-note/week/firstweek/week1.md)
@@ -32,7 +31,7 @@
   * [COSR](dev-note/week/thirdweek/cors.md) 
 
 
-*[SIXTH WEEK](/dev-note/week/sixthweek/week6.md))
+* [SIXTH WEEK](/dev-note/week/sixthweek/week6.md)
   * [Database](/dev-note/week/sixthweek/database.md)
   * [Relational Model](/dev-note/week/sixthweek/relationalMedel.md)
   * [Relational Algerbra](/dev-note/week/sixthweek/relationalAlgerbra.md)
